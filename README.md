@@ -1,2 +1,1 @@
-# AsuCord-Bot
-This is the repository of the Discord bot AsuCord Updates
+uhh theres supposed to be a discription of asucord here but i dont care enough rn 
